@@ -1,0 +1,17 @@
+{
+    "text":{
+        "sectionName":"Our Work",
+        "title":"Featured projects",
+        "desc":"Explore our latest work and see how we transform ideas into reality"
+    },
+    "cards":{
+        "talimet":{
+            "title":"Talimet.uz",
+            "desc":"CRM System for Education center"
+        },
+        "Notee.uz":{
+            "title":"Notee.uz",
+            "desc":"Users platform to write own experience"
+        }
+    }
+}

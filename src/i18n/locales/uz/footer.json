@@ -1,0 +1,22 @@
+{
+    "text": {
+        "title": "Merux IT Service",
+        "desc": "Masshtablanadigan raqamli mahsulotlar yaratamiz. G'oyalaringizni tajribali jamoamiz bilan haqiqatga aylantiring."
+    },
+    "links": {
+        "product": {
+            "title": "Mahsulot",
+            "features": "Imkoniyatlar",
+            "pricing": "Narxlar",
+            "security": "Xavfsizlik",
+            "roadMap": "Yo'l xaritasi"
+        },
+        "company": {
+            "title": "Kompaniya",
+            "about": "Biz haqimizda",
+            "blog": "Blog",
+            "career": "Karyera",
+            "press": "Matbuot"
+        }
+    }
+}

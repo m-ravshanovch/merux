@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "home": "홈",
+    "service": "서비스",
+    "ourWork": "우리의 작업",
+    "contact": "연락처"
+  },
+  "actions": {
+    "button": "시작하기"
+  }
+}

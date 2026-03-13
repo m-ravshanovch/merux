@@ -1,18 +1,19 @@
 import { SquareArrowOutUpRight } from "lucide-react"
 import { motion } from 'framer-motion';
-
+import { useTranslation } from "react-i18next";
 const OurWork = () => {
+  const {t} = useTranslation("ourProjects")
   const cards = [
     {
       image: "./talimet.jpg",
-      title: "Talimet",
-      description: "CRM System for Education center",
+      title: "cards.talimet.title",
+      description: "cards.talimet.desc",
       link: "https://www.talimet.uz/"
     },
     {
       image: "./notee.jpg",
-      title: "Notee",
-      description: "Users platform to write own experience",
+      title: "cards.Notee.uz.title",
+      description: "cards.Notee.uz.desc",
       link: "http://notee.uz/"
     },
   ]
@@ -22,15 +23,15 @@ const OurWork = () => {
         <motion.p initial={{ opacity: 0, y: 40 }}
   whileInView={{ opacity: 1, y: 0 }}
   transition={{ duration: 0.5,ease:"easeInOut" }}
-  viewport={{ once: true }} className="text-indigo-600">OUR WORK</motion.p>
+  viewport={{ once: true }} className="text-indigo-600">{t("text.sectionName")}</motion.p>
         <motion.p initial={{ opacity: 0, y: 40 }}
   whileInView={{ opacity: 1, y: 0 }}
   transition={{ duration: 0.5,ease:"easeInOut",delay:0.2 }}
-  viewport={{ once: true }} className=" text-5xl md:text-6xl font-bold text-center">Featured projects</motion.p>
+  viewport={{ once: true }} className=" text-5xl md:text-6xl font-bold text-center">{t("text.title")}</motion.p>
         <motion.p initial={{ opacity: 0, y: 40 }}
   whileInView={{ opacity: 1, y: 0 }}
   transition={{ duration: 0.5,ease:"easeInOut",delay:0.3 }}
-  viewport={{ once: true }} className="text-zinc-500 text-xl font-semibold text-center">Explore our latest work and see how we transform ideas into reality</motion.p>
+  viewport={{ once: true }} className="text-zinc-500 text-xl font-semibold text-center">{t("text.desc")}</motion.p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mt-5">
         {cards.map((card,index) => (
@@ -55,8 +56,8 @@ const OurWork = () => {
 
             </div>
             <div className="flex w-full flex-col border gap-y-5 py-10 p-7 rounded-b-3xl border-zinc-300 dark:border-zinc-800 transition-colors duration-300">
-              <p className="text-2xl font-bold">{card.title}</p>
-              <p className=" text-zinc-700 dark:text-zinc-400">{card.description}</p>
+              <p className="text-2xl font-bold">{t(card.title)}</p>
+              <p className=" text-zinc-700 dark:text-zinc-400">{t(card.description)}</p>
             </div>
           </motion.div>
         ))}

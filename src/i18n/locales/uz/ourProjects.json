@@ -1,0 +1,17 @@
+{
+  "text": {
+    "sectionName": "Bizning ishlar",
+    "title": "Tanlangan loyihalar",
+    "desc": "So‘nggi ishlarimizni ko‘ring va g‘oyalarni qanday qilib haqiqatga aylantirishimizni bilib oling"
+  },
+  "cards": {
+    "talimet": {
+      "title": "Talimet.uz",
+      "desc": "Ta’lim markazlari uchun CRM tizimi"
+    },
+    "Notee.uz": {
+      "title": "Notee.uz",
+      "desc": "Foydalanuvchilar o‘z tajribalarini yozib ulashishi mumkin bo‘lgan platforma"
+    }
+  }
+}

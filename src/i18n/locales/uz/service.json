@@ -1,0 +1,21 @@
+{
+  "text": {
+    "sectionName": "Bizning xizmatlar",
+    "title": "Biz nimalarni taklif qilamiz",
+    "desc": "Biznes ehtiyojlaringizga moslashtirilgan keng qamrovli raqamli yechimlar"
+  },
+  "cards": {
+    "webPortfolio": {
+      "title": "Web Portfolio",
+      "desc": "Portfolio sizning ko‘nikmalaringiz, tajribangiz va amalga oshirilgan loyihalaringizni bir joyda namoyish etadi. Bu mijozlar yoki ish beruvchilarga sizning imkoniyatlaringizni va loyihalariga qanday qiymat qo‘sha olishingizni tezda tushunishga yordam beradi."
+    },
+    "website": {
+      "title": "Veb-sayt",
+      "desc": "Veb-sayt biznesingizga ishonchni oshirish va ko‘proq mijozlarga onlayn yetib borishga yordam beradi. U xizmatlaringizni professional tarzda taqdim etadi hamda odamlarning biznesingizni topishi va siz bilan bog‘lanishini osonlashtiradi."
+    },
+    "crmSystem": {
+      "title": "CRM tizimi",
+      "desc": "CRM tizimi mijozlar bilan ishlash jarayonini boshqarish va avtomatlashtirishga yordam beradi. U mijozlar bilan aloqalarni saqlash, savdolarni kuzatish va biznes jarayonlarini samarali tashkil qilish imkonini beradi."
+    }
+  }
+}

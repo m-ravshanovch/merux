@@ -1,0 +1,23 @@
+{
+    "text":{
+        "title":"Merux IT Service",
+        "desc":"Building digital products that scale. Transform your ideas into reality with our expert team."
+    },
+
+    "links":{
+        "product":{
+            "title":"Product",
+            "features":"Features",
+            "pricing":"Pricing",
+            "security":"Security",
+            "roadMap":"RoadMap"
+        },
+        "company":{
+            "title":"Company",
+            "about":"About",
+            "blog":"Blog",
+            "career":"Careers",
+            "press":"Press"
+        }
+    }
+}

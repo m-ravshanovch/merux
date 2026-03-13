@@ -1,0 +1,11 @@
+{
+    "menu":{
+        "home":"Home",
+        "service":"Service",
+        "ourWork":"Our Work",
+        "contact":"Contact"
+    },
+    "actions":{
+        "button":"Get Started"
+    }
+}

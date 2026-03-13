@@ -1,0 +1,22 @@
+{
+  "text": {
+    "title": "Merux IT Service",
+    "desc": "확장 가능한 디지털 제품을 구축합니다. 우리의 전문 팀과 함께 당신의 아이디어를 현실로 만들어 보세요."
+  },
+  "links": {
+    "product": {
+      "title": "제품",
+      "features": "기능",
+      "pricing": "가격",
+      "security": "보안",
+      "roadMap": "로드맵"
+    },
+    "company": {
+      "title": "회사",
+      "about": "회사 소개",
+      "blog": "블로그",
+      "career": "채용",
+      "press": "언론"
+    }
+  }
+}

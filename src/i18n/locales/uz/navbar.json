@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "home": "Bosh sahifa",
+    "service": "Xizmatlar",
+    "ourWork": "Ishlarimiz",
+    "contact": "Bog‘lanish"
+  },
+  "actions": {
+    "button": "Boshlash"
+  }
+}

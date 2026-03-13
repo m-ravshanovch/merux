@@ -1,0 +1,17 @@
+{
+  "text": {
+    "sectionName": "우리의 작업",
+    "title": "주요 프로젝트",
+    "desc": "최근 작업을 살펴보고 우리가 아이디어를 어떻게 현실로 바꾸는지 확인해보세요"
+  },
+  "cards": {
+    "talimet": {
+      "title": "Talimet.uz",
+      "desc": "교육 센터를 위한 CRM 시스템"
+    },
+    "Notee.uz": {
+      "title": "Notee.uz",
+      "desc": "사용자가 자신의 경험을 작성하고 공유할 수 있는 플랫폼"
+    }
+  }
+}

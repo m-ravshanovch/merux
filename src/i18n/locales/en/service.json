@@ -1,0 +1,21 @@
+{
+    "text":{
+        "sectionName":"Our Service",
+        "title":"What we offer",
+        "desc":"Comprehensive digital solutions tailored to your business needs"
+    },
+    "cards":{
+        "webPortfolio":{
+            "title":"Web Portfolio",
+            "desc":"A portfolio showcases your skills, experience, and completed projects in one place.It helps clients or employers quickly understand your abilities and the value you can bring to their projects."
+        },
+        "website":{
+            "title":"Website",
+            "desc":"A website helps your business build trust and reach more customers online.It presents your services professionally and makes it easier for people to discover and contact your business."
+        },
+        "crmSystem":{
+            "title":"CRM System",
+            "desc":"A portfolio showcases your skills, experience, and completed projects in one place.It helps clients or employers quickly understand your abilities and the value you can bring to their projects."
+        }
+    }
+}
